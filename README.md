@@ -10,9 +10,8 @@ As a Machine Learning Scientist with more than five years of experience in deep 
 <center> <img src="Mohit_skills_wordcloud.jpg" width="500" height="400">      </center>
 
 
-![Word Cloud](Mohit_skills_wordcloud.jpg)
-Protein Language Models | Generative AI | Graph Neural Network | Cheminformatics | 3D structure-based drug discovery | Peptide and protein modeling | CRISPR-Cas gene editing | Monte Carlo Sampling| Uncertainty ML quantification
-_
+---
+
 - 🔭 I’m currently working on: **[Your Current Projects or Interests]**
 - 🌱 I’m learning: **[Technologies/Skills You're Learning]**
 - 💬 Ask me about: **[Your areas of expertise or interest]**
@@ -33,10 +32,9 @@ _
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter)](https://twitter.com/YOUR-TWITTER)
-[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:YOUR-EMAIL@domain.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/mohit-pandey-1a853367/))
+[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:mpandey@bu.edu)
 
 ---
 
-> “Your favorite quote or personal motto here.”
+> “I may not have gone where I intended to go, but I think I have ended up where I needed to be." -Douglas Adam
