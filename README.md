@@ -32,7 +32,7 @@ I'm a Machine Learning Scientist with over five years of experience in deep lear
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/mohit-pandey-1a853367/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohit-pandey-1a853367/)
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:mpandey@bu.edu)
 
 ---
