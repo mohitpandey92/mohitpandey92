@@ -31,15 +31,6 @@ I'm a Machine Learning Scientist with over five years of experience in deep lear
 ---
 
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-GYEB0GJJ9P"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-GYEB0GJJ9P');
-</script>
 
 ## 🤝 Let's Connect
 
@@ -49,3 +40,6 @@ I'm a Machine Learning Scientist with over five years of experience in deep lear
 ---
 
 > “I may not have gone where I intended to go, but I think I have ended up where I needed to be." -Douglas Adam
+
+
+
