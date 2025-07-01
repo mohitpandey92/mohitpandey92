@@ -5,7 +5,7 @@ Welcome to my GitHub profile! Here you'll find my projects, contributions, and a
 ---
 
 ## 🧑‍💻 About Me
-As a Machine Learning Scientist with more than five years of experience in deep learning, optimization algorithms, and software engineering, I am passionate about using my skills to analyze high-throughput biological datasets. I have a strong Ph.D. training in Computational Statistical Physics and Biophysics, and subsequent experience in industry working on i) peptide and protein modeling and ii) CRISPR-Cas gene-editing medicine. I am eager to collaborate with others to bring the power of AI to drug discovery and improve patient outcomes.
+I'm a Machine Learning Scientist with over five years of experience in deep learning, optimization algorithms, and software engineering. I'm passionate about leveraging these skills to analyze high-throughput biological datasets. My background includes a Ph.D. in Computational Statistical Physics and Biophysics, along with biotech industry experience ini)  peptide and protein modeling, and CRISPR-Cas gene-editing and epigenetic-editing medicine. I'm eager to collaborate on projects that use AI to accelerate drug discovery and improve patient outcomes
 
 <center> <img src="Mohit_skills_wordcloud.jpg" width="500" height="400">      </center>
 
