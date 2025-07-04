@@ -20,8 +20,8 @@ I'm a Machine Learning Scientist with over five years of experience in deep lear
 
 ## 📂 My Selected Projects
 
-- Project 1: A custom-built graph neural network VAE (Generative AI) to generate peptide sequences with an alpha-helical constraint, which are predicted to have high cell permeability.
-- Project 2: Finetuned protein language model (ESM-2) on proprietary CRISPR-Cas gene editing data
+- GNN-VAE: A custom-built graph neural network VAE (Generative AI) to generate peptide sequences with an alpha-helical constraint, which are predicted to have high cell permeability.
+- Finetuned pLM: Finetuned protein language model on proprietary CRISPR-Cas gene editing data
 - [Project 3](https://github.com/mohitpandey92/project3): Description of project 3.
 
 *You can see more of my projects [here](https://github.com/mohitpandey92?tab=repositories).*
