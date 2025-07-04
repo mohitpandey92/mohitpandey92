@@ -22,7 +22,7 @@ I'm a Machine Learning Scientist with over five years of experience in deep lear
 
 - GNN-VAE: A custom-built graph neural network VAE (Generative AI) to generate peptide sequences with an alpha-helical constraint, which are predicted to have high cell permeability.
 - Finetuned pLM: Finetuned protein language model on proprietary CRISPR-Cas gene editing data
-- [pyproject-template]([https://github.com/mohitpandey92/project3](https://github.com/mohitpandey92/pyproject-template)): A Python package to create a quick template for starting a Data Science project
+- [pyproject-template](https://github.com/mohitpandey92/pyproject-template): A Python package to create a quick template for starting a Data Science project
 
 *You can see more of my projects [here](https://github.com/mohitpandey92?tab=repositories).*
 
