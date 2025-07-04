@@ -1,7 +1,6 @@
 # Hi there, I'm Mohit Pandey 👋
 
-Welcome to my GitHub profile! Here you'll find my projects, contributions, and a little about me.
-
+Welcome to my GitHub profile! Here you'll find my background and projects that I have been working on.
 ---
 
 ## 🧑‍💻 About Me
