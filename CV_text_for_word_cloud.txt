@@ -1,0 +1,83 @@
+As a Machine Learning Scientist with more than five years of experience in deep learning, optimization algorithms, and software engineering, I am passionate about  my skills to analyze high-throughput biological datasets. I have a strong Ph.D. training in Computational Statistical Physics and Biophysics, and subsequent experience in industry working on i) peptide and protein modeling and ii) CRISPR-Cas gene-editing medicine. I am eager to collaborate with others to bring the power of AI to drug discovery and improve patient outcomes.
+
+
+Protein Language Models Generative AI Graph Neural Network Cheminformatics 3D structure-based drug discovery Peptide and protein modeling CRISPR-Cas gene editing Monte Carlo Sampling  Uncertainty ML quantification
+
+Communication
+
+collaboration
+
+Team
+
+Technical Skills
+Programming Python, R, and Bash
+Molecular modeling RDKit, Molsoft ICM, Rosetta Commons / PyRosetta, PyMOL, Jalview, QSAR modeling
+Machine Learning Deep neural networks ( CNN, LSTM, GNN and Transformers), generative AI ( VAE, GAN and Diffusion), protein language models ( ESM-2 and ProtTrans) LASSO, ridge regression, XGBoost, clustering algorithms (, PCA, UMAP and t-SNE) \\ 
+Responsible AI InterpretML, SHAP, LIME
+
+PyTorch, PyTorch Lightning, PyTorch Geometric, Huggingface transformers, Huggingface evaluate, Keras, TensorFlow, DeepChem, Rosetta, pandas, numpy, scikit-learn, Jupyter lab, Streamlit, Requests (for REST API)
+Computing
+Amazon Web Services (AWS) EC2, AWS S3, AWS Lambda, AWS Step function, AWS EventBridge, Docker container, Sun Grid Engine, Computing Cluster job scheduling, Linux environment
+
+MLOps MLflow, AWS SageMaker and Domino Data Labs 
+
+
+Hit optimization: Achieved a prospective success rate of 43% in designing novel and potent enzyme variants  a finetuned protein language model (ESM-2) on proprietary CRISPR-Cas gene editing data.
+
+Hit identification: Analyzed high-throughput CRISPR-Cas gene editing mammalian screening data  3D protein structure features that contributed to the success rate of 74% in hit selection. 
+
+LLM pretraining: Explored and implemented pre-training of a protein language model on CRISPR-Cas sequence landscape.
+
+
+GPU AWS
+ML training on multiple GPU cores: Finetuned a protein language model (ESM-2) with 35M parameters on 8 NVIDIA GPU cores  Huggingface transformers for 8 hours.
+
+
+Epigenetics study: Improved organization's understanding of novel epigenetic repressor domains by analyzing high-throughput CRISPR-Cas epigenetic screening data  protein clustering, sequence alignment, and physicochemical properties correlation studies.
+
+ETL pipeline: Managed a Data Engineer who implemented cloud ETL data pipelines for organization's Data Foundation  AWS Glue, AWS RDS, AWS Redshift, AWS Lambda and Streamlit. 
+
+
+Presented ML modeling results related to hit optimization to an external partner.
+
+Machine Learning Engineer 
+
+Data Engineer
+Developed novel custom-built graph neural network VAE (Generative AI) to generate peptide sequences with an alpha-helical constraint, which are predicted to have high cell permeability.
+
+Designed peptide sequences  generative AI that i) achieved single-digit nanomolar binding with 1.5x improvement in cell permeability over parent sequence, and ii)
+improved biological cellular activity by 500 times over the parent sequence.
+
+Developed a novel metric for quantifying applicability and confidence measure of ML classifier models
+Achieved prospective ROC AUC of more than 0.7 for predicting cell permeability with 4000 peptide sequence
+
+
+Communicated insights to drug designers for hit identification and hit-to-lead optimization obtained from machine learning modeling and data analysis 
+
+
+Experienced with peptide and protein modeling, and computer-aided drug discovery  Rosetta
+
+Tackled protein design and multibody molecular docking  simulated annealing under Rosetta score 
+Contributed to Platform by building a protein design pipeline  Python, Bash and Rosetta scripts.
+Worked on a client-facing project to increase thermostability of a target protein  a quantum optimization algorithm
+Extensively used Gitlab for version control, tracking issues and collaborating with colleagues while coding drug discovery related algorithms
+
+Drove future excellence by tackling the problem of hiring more than a million people a year from a technical perspective 
+Built a CNN-LSTM model in tensorflow to improve time-series forecasting of proprietary data with goal of informing business decisions
+with AWS WorkForce Staffing to tackle problem of hiring more than a million people a year.
+Used Agile-like project management to work with stakeholders to understand a rapidly evolving and ambiguous problem space
+Delivered to stakeholders on project goals in fast-paced environment
+Communicated highly technical ML information to non-technical stakeholders and increased understanding of time-series forecasting and neural networks in organization
+
+Communication
+
+collaboration
+
+Team
+
+Communication
+
+
+
+
+collaboration
