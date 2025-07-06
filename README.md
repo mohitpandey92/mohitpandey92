@@ -12,7 +12,7 @@ Source file: [CV text](https://github.com/mohitpandey92/mohitpandey92/blob/main/
 
 
 ---
-## My ML research expertise
+## My ML research expertise areas:
 - Protein Language Models based on transformers: ESM-2 and ProtT5
 - Molecular modeling: 3D molecular structure, Physics-based molecular modeling and Cheminformatics
 - Generative AI: VAE, GAN and Diffusion
@@ -25,10 +25,10 @@ Here is my [CV link](https://github.com/mohitpandey92/mohitpandey92/blob/main/Mo
 
 ---
 
-- 🔭 I’m currently working on: **Pre-training protein langauge model for CRISPR-Cas enzyme engineering**
-- 🌱 I’m learning: **How to generate config files using Hydra and Omegaconf for tracking ML experiments**
-- 💬 Ask me about: **Deep Learning Algorithms applied to biology.**
-- ⚡ Fun fact: **I love training new tricks to my rescue dog**
+- 🔭 *I’m currently working on*: Pre-training protein langauge model for CRISPR-Cas enzyme engineering
+- 🌱 *I’m learning*: How to generate config files using Hydra and Omegaconf for tracking ML experiments
+- 💬 *Ask me about*: Deep Learning Algorithms applied to biology
+- ⚡ *Fun fact*: I love training new tricks to my rescue dog.
 
 ---
 
