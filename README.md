@@ -8,6 +8,10 @@ I'm a Machine Learning Scientist with over five years of experience in deep lear
 
 <center> <img src="Mohit_skills_wordcloud.jpg" width="500" height="400">      </center>
 
+Source file: [CV text](https://github.com/mohitpandey92/mohitpandey92/blob/main/CV_text_for_word_cloud.txt) 
+
+
+![research icon](https://github.com/user-attachments/assets/c571b90a-c848-4d83-bf4a-6cfe4bb6ca7e)
 
 ---
 
