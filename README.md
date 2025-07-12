@@ -34,9 +34,10 @@ Here is my [CV link](https://github.com/mohitpandey92/mohitpandey92/blob/main/Mo
 
 ## 📂 My Selected Projects
 
+- [protein-ml-utils](https://github.com/mohitpandey92/protein-mlutils): A ML utility package for working with protein datasets
+- [data-science-template](https://github.com/mohitpandey92/pyproject-template): A Python package to create a quick template for starting a Data Science project
 - GNN-VAE: A custom-built graph neural network VAE (Generative AI) to generate peptide sequences with an alpha-helical constraint, which are predicted to have high cell permeability.
 - Finetuned pLM: Finetuned protein language model on proprietary CRISPR-Cas gene editing data
-- [data-science-template](https://github.com/mohitpandey92/pyproject-template): A Python package to create a quick template for starting a Data Science project
 
 *You can see more of my projects [here](https://github.com/mohitpandey92?tab=repositories).*
 
